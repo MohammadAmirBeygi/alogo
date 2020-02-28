@@ -14,8 +14,7 @@ namespace alogorithms
           
             int SE = 34;
             
-          int val=  BinarySearchalgo(arr,SE);
-            Display.displaycustomarray(arr, val, "Serach Index.....");
+        
 
         }
         public  static int BinarySearchalgo( int[] arr, int SE)

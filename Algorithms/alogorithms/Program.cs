@@ -10,9 +10,9 @@ namespace alogorithms
     {
         static void Main(string[] args)
         {
-            BubbleSort.BubbleSortAlogo(true);
+           // BubbleSort.BubbleSortAlogo(true);
            // ZeroandOnes.segregate0sand1s();
-          //  BinarySearch.BinarySearchResult();
+           BinarySearch.BinarySearchResult();
    
         }
     }
